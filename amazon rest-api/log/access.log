@@ -1,0 +1,4 @@
+::1 - - [07/Apr/2020:10:39:30 +0000] "DELETE /api/v1/categories/5 HTTP/1.1" 200 73 "-" "PostmanRuntime/7.24.0"
+::1 - - [07/Apr/2020:10:39:35 +0000] "GET /api/v1/categories/5 HTTP/1.1" 200 88 "-" "PostmanRuntime/7.24.0"
+::1 - - [07/Apr/2020:10:39:37 +0000] "POST /api/v1/categories/5 HTTP/1.1" 404 159 "-" "PostmanRuntime/7.24.0"
+::1 - - [27/Feb/2022:05:20:03 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36"
